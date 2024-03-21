@@ -1,0 +1,21 @@
+{
+	"name": "data-import-fix",
+	"version": "0.0.1",
+	"description": "Workaround for node issue #51955",
+	"main": "register.mjs",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"engines": {
+		"node": ">=20"
+	},
+	"keywords": [
+		"node-51956",
+		"data-url",
+		"data-uri",
+		"import",
+		"url"
+	],
+	"author": "Benjamin Gwynn <benjamin@benjamingwynn.com>",
+	"license": "GPL-2.0-only"
+}
